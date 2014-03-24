@@ -1,8 +1,7 @@
 {
   "name": "node-packet-header",
   "version": "0.0.6",
-  "description": "node-packet-header\r
-  tool for making packet header and body.",
+  "description": "node-packet-header\r tool for making packet header and body.",
   "main": "./lib/packetHeader.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
