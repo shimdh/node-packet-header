@@ -1,0 +1,22 @@
+{
+  "name": "node-packet-header",
+  "version": "0.0.1",
+  "description": "node-packet-header\r ==================",
+  "main": "./lib/packetHeader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shimdh/node-packet-header.git"
+  },
+  "author": {
+    "name": "shimdh",
+    "emial": "shimdh@gmail.com"
+    },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shimdh/node-packet-header/issues"
+  },
+  "homepage": "https://github.com/shimdh/node-packet-header"
+}
