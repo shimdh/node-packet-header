@@ -1,6 +1,6 @@
 {
   "name": "node-packet-header",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "node-packet-header\r tool for making packet header and body.",
   "main": "./lib/packetHeader.js",
   "scripts": {
